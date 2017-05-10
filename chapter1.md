@@ -1,11 +1,11 @@
-# Installing
+# Setup: STT APIs
 
 There are three options for speech to text APIs that you can use with this system.
 
 Check them out individually for extra setup instruction.
 
 1. [IBM Watson STT](/setup-stt-apis-ibm.md)
-2. [Gentle STT ](/setup-stt-apis-gentle.md)\(Open Source, needs a separate up for setup\)
+2. [Gentle STT ](/setup-stt-apis-gentle.md)\(Open Source, needs a separate app for setup\)
 3. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
 
 ### Overview {#overview}
