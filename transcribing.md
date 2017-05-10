@@ -18,15 +18,21 @@ If first time using the tool go ahead and [setup the STT API system first](/setu
 
 The transcription will take a round **5 minutes **process regardless of the length of the media
 
-** **![](http://www.autoedit.io/img/gif/2_processing_transcription.gif)to
+** **![](/assets/2_processing_transcription.gif)to
 
 ---
 
 ### 2. Selecting text from a transcription {#selecting-text-from-a-transcription}
 
-Make selections of text you’d like to include in your video sequence.
+If you click on a word the video starts playing from that point.  
+Make a selections of text you’d like to include in your video sequence.  
+![](/assets/3_transcription_2.gif "Transcription")
 
-![](http://www.autoedit.io/img/gif/3_transcription.gif "Transcription")
+
+
+
+
+
 
 ---
 
@@ -34,7 +40,7 @@ Make selections of text you’d like to include in your video sequence.
 
 Export an EDL, which is an[Edit decision list](https://en.wikipedia.org/wiki/Edit_decision_list).
 
-![](http://www.autoedit.io/img/gif/4_export.gif "Transcription")
+![](/assets/4_export.gif "Transcription")
 
 You can export a video sequence of selection as they appear chronologically in the video.
 
