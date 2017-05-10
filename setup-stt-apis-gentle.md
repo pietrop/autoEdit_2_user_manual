@@ -6,7 +6,7 @@ To use autoEdit with Gentle, Open source offline speech to text service, you nee
 
 * 1.Download [Gentle version 0.9.1](https://github.com/lowerquality/gentle/releases/tag/0.9.1) about`104mb`
 
-* 2.Start the Gentle app
+* 2.Start the Gentle app, double click on it.
 
 * 3.Click`Enable full transcription`, this will download the language model component to be able to work offline.
 
@@ -20,13 +20,7 @@ Future times, you just need to launch gentle anche check local host is working.
 
 #### Launching Gentle’s local server
 
-If you already done the initial setup downloading the language model as described above, all you need to do when using gentle is click`open in browser`
+If you already done the initial setup downloading the language model as described above, all you need to do when using gentle is click `open in browser`.![](http://www.autoedit.io/img/gentle_open_in_browser.png "gentle\_open\_in\_browser")
 
-![](http://www.autoedit.io/img/gentle_open_in_browser.png "gentle\_open\_in\_browser")
-
-This will open your default browser with this page, and this means the Gentle server is running locally. The address should be \[http://localhost:8765\]\(http://localhost:8765\)
-
-![](http://www.autoedit.io/img/gentle_browser.png " gentle\_browser")
-
-Now you are ready to chose Gentle as an option when adding a new transcription. Go back to the[user manual](http://www.autoedit.io/user_manual/usage.html)to continue.
+This will open your default browser with this page, and this means the Gentle server is running locally. The address should be [http://localhost:8765](http://localhost:8765]%28http://localhost:8765\).![](http://www.autoedit.io/img/gentle_browser.png " gentle\_browser")Now you are ready to chose Gentle as an option when adding a new transcription. Go back to the[user manual](http://www.autoedit.io/user_manual/usage.html)to continue.
 
