@@ -1,10 +1,9 @@
-# Setup: STT APIs
+# Installing
 
 There are three options for speech to text APIs that you can use with this system.
 
-1.  IBM Watson STT
-2. Gentle/Kaldi STT open source.
-3. Pocketsphinx is another open source option
+1. One is the IBM Watson STT
+2. the Other is the open source Gentle STT.
 
 ### Overview {#overview}
 
@@ -16,10 +15,10 @@ Pros:
 
 * 16 hours a month included in service
 * 0.02 cent a minute after that
-  \[see pricing\]\([http://www.autoedit.io/user\_manual/setup-\(Pietro-s-MacBook-Pro's-conflicted-copy-2016-12-21\).html](http://www.autoedit.io/user_manual/setup-%28Pietro-s-MacBook-Pro's-conflicted-copy-2016-12-21%29.html)\)
+  [see pricing](http://www.autoedit.io/user_manual/setup-%28Pietro-s-MacBook-Pro's-conflicted-copy-2016-12-21%29.html)
 * generally pretty accurate \(my opinion, judge for yourself\)
 * supports a number of languages
-  \[see here\]\([http://www.autoedit.io/user\_manual/setup-\(Pietro-s-MacBook-Pro's-conflicted-copy-2016-12-21\).html](http://www.autoedit.io/user_manual/setup-%28Pietro-s-MacBook-Pro's-conflicted-copy-2016-12-21%29.html)\)
+  [see here](http://www.autoedit.io/user_manual/setup-%28Pietro-s-MacBook-Pro's-conflicted-copy-2016-12-21%29.html)
   including distiction between british and american english
 
 Cons:
@@ -48,5 +47,6 @@ Cons:
 * Only support english STT.
 * At the moment not as fast as IBM one.
 
+  
 
 
