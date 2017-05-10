@@ -25,10 +25,11 @@ As you have seen above by default your selections are added at the end of the pa
 
 ![](/assets/3_paperedit.gif)
 
-### 3. Add headings to your story  {#adding-a-videoaudio}
+### 3. Add headings to your story {#adding-a-videoaudio}
 
 To keep your story organised you can add headings/`story points`.
 
+At present headings help you keep the story organised within autoEdit and are not included in the EDL export.   
 ![](/assets/4_paperedit.gif)
 
 ### 4. Reorganise selections {#adding-a-videoaudio}
@@ -43,7 +44,7 @@ To delete a selection drag it onto the bin.
 
 ### 5. Delete all {#adding-a-videoaudio}
 
-To delete all selection click on the bin and chose `ok`. 
+To delete all selection click on the bin and chose `ok`.
 
 ![](/assets/11_paperedit.gif)
 
