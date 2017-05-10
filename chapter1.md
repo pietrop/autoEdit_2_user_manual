@@ -1,8 +1,12 @@
+# 
+
+# 
+
 # Installing
 
-There are three options for speech to text APIs that you can use with this system.    
+There are three options for speech to text APIs that you can use with this system.
 
-1.  IBM Watson STT
+1. IBM Watson STT
 2. Gentle STT \(Open Source, needs a separate up for setup\)
 3. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
 
@@ -52,7 +56,7 @@ There are three options for speech to text APIs that you can use with this syste
 
 ##### Pros:
 
-*  Free as in free speech as well as in free beer.
+* Free as in free speech as well as in free beer.
 
 * working locally on your machine. no internet connection needed because of that, good for sensitive material.
 
