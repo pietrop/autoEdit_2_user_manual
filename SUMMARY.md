@@ -8,6 +8,5 @@
 * [Setup: STT APIs](setup-stt-apis.md)
 * [Setup: STT APIs - IBM](setup-stt-apis-ibm.md)
 * [Setup: STT APIs - Gentle](setup-stt-apis-gentle.md)
-* [Setup: STT APIs - Pocketsphinx](setup-stt-apis-pocketsphinx.md)
 * Opening EDL in video editing software
 

@@ -1,13 +1,11 @@
-# 
-
-# 
-
 # Installing
 
 There are three options for speech to text APIs that you can use with this system.
 
-1. IBM Watson STT
-2. Gentle STT \(Open Source, needs a separate up for setup\)
+Check them out individually for extra setup instruction.
+
+1. [IBM Watson STT](/setup-stt-apis-ibm.md)
+2. [Gentle STT ](/setup-stt-apis-gentle.md)\(Open Source, needs a separate up for setup\)
 3. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
 
 ### Overview {#overview}
@@ -31,6 +29,8 @@ There are three options for speech to text APIs that you can use with this syste
 * Need to provide card details for pay as you go fee.
 * is in the cloud so no offline support.
 
+[Check out for extra setup instructions for IBM](/setup-stt-apis-ibm.md).
+
 ---
 
 #### Gentle Open Source STT {#gentle-open-source-stt}
@@ -39,7 +39,7 @@ There are three options for speech to text APIs that you can use with this syste
 
 * Free as in free speech as well as in free beer.
 
-* working locally on your machine. no internet connection needed because of that, good for sensitive material.
+* Working locally on your machine. No internet connection needed because of that, good for sensitive material.
 
 * Open source [github repo](https://lowerquality.com/gentle) and [I made a node module to work with the API](https://github.com/OpenNewsLabs/gentle_stt_node)  
   .
@@ -49,6 +49,8 @@ There are three options for speech to text APIs that you can use with this syste
 * Not as accurate as IBM one \(in my opinion, but decide for yourself\).
 * Only support US english STT.
 * In autoEdit, at the moment not as fast as IBM one, takes a little longer then the length of the media. \(eg 27 min takes 30 min to transcribe\).
+
+[Check out for extra setup instructions for Gentle](/setup-stt-apis-gentle.md).
 
 ---
 
@@ -68,6 +70,8 @@ There are three options for speech to text APIs that you can use with this syste
 * Not as accurate as IBM or Gentle.
 * Only support US english STT.
 * in autoEdit, at the moment not as fast as IBM one, takes a little longer then the length of the media. \(eg 27 min takes 30 min to transcribe\).
+
+Pocketsphinx does not require extra setup to use.
 
 ---
 
