@@ -1,4 +1,4 @@
-# Transcribing
+# Transcriptions
 
 If first time using the tool go ahead and [setup the STT API system first](/setup-stt-apis.md).
 
@@ -27,12 +27,6 @@ The transcription will take a round **5 minutes **process regardless of the leng
 If you click on a word the video starts playing from that point.  
 Make a selections of text you’d like to include in your video sequence.  
 ![](/assets/3_transcription_2.gif "Transcription")
-
-
-
-
-
-
 
 ---
 

@@ -19,6 +19,23 @@ To import the EDL and reconnect the sequence
 
 ![](http://www.autoedit.io/img/gif/5_EDL_in_premiere.gif "processing transcription")
 
-**a Note on working with Final cut pro X**  
+#### **a Note on working with Final cut pro X**
+
 For now a workaround for Final cut pro X not supporting EDL is that you can open the EDL in [Davinci resolve](https://www.blackmagicdesign.com/products/davinciresolve) convert it to XML that will work with final cut X.
+
+
+
+#### Align timecode
+
+In adobe premiere there is an option to `align timecode`.
+
+> The Align Timecode option is also checked by default to align the media file's source timecode to the clip being linked.
+
+from [_Relink offline media _adobe website](https://helpx.adobe.com/premiere-pro/using/relinking-media.html)
+
+![](/assets/align_timecode.png)
+
+#### 
+
+
 

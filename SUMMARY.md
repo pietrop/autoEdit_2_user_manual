@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 * [Installing](installing.md)
-* [Transcribing](transcribing.md)
+* [Transcriptions](transcribing.md)
+  * [Editing Text](transcribing/editing-text.md)
+  * [Shortcuts](transcribing/shortcuts.md)
 * [Paperediting](paperediting.md)
 * [Opening EDL in video editing software](opening-edl-in-video-editing-software.md)
 * [Setup: STT APIs](chapter1.md)
