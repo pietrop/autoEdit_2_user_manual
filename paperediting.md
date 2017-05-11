@@ -1,6 +1,13 @@
 # Paper-editing
 
-If first time using the tool go ahead and [setup the STT API system first](/setup-stt-apis.md). Then [add some videos or audio files to transcribe](/transcribing.md).
+If first time using the tool go ahead and [setup the STT API system first](/setup-stt-apis.md). Then [add some videos or audio files to transcribe](/transcribing.md) that can then be used in the paper-edit
+
+#### What is a paper-edit?
+
+You can pull selections from various transcriptions, organised them into a story, and when you are done export that as a video sequence. Through an EDL, edit decision list, that can be opened with your video editing software of choice to continue editing your video.  
+
+
+If you want to know more about what is paper-editing, and why should you bother, I once organised a workshop "_How to craft compelling stories out of video interviews?_" that focussed on the underlying evergreen storytelling principles that transcend the medium, introducing paper-editing in it's traditional  paper, scissors and tape as a key story crafting technique to gain insight into the process of interviewed based documentary production.  [Check out this blog post for the slide notes](http://pietropassarelli.com/wip_london_july2016.html).
 
 ### 0. Create a new paper-edit {#adding-a-videoaudio}
 
@@ -29,7 +36,7 @@ As you have seen above by default your selections are added at the end of the pa
 
 To keep your story organised you can add headings/`story points`.
 
-At present headings help you keep the story organised within autoEdit and are not included in the EDL export.   
+At present headings help you keep the story organised within autoEdit and are not included in the EDL export.  
 ![](/assets/4_paperedit.gif)
 
 ### 4. Reorganise selections {#adding-a-videoaudio}
@@ -63,4 +70,6 @@ You can export an EDL\(edit decision list\) of the selections you have made in t
 ### 9. Reconnect in video editing software of choice {#reconnect-in-video-editing-software-of-choice}
 
 [Check out this section on how to open an EDL](https://www.gitbook.com/book/pietropassarelli/autoedit2-user-manual/edit#) in a video editing software of choice to get a video sequence of your selections.
+
+
 

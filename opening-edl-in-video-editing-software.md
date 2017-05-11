@@ -23,16 +23,13 @@ To import the EDL and reconnect the sequence
 
 For now a workaround for Final cut pro X not supporting EDL is that you can open the EDL in [Davinci resolve](https://www.blackmagicdesign.com/products/davinciresolve) convert it to XML that will work with final cut X.
 
+#### Align timecode in Premiere 
 
+In adobe premiere there is an option to `align timecode`The Align Timecode option is also checked by default to align the media file's source timecode to the clip being linked.
 
-#### Align timecode
+From_ _[_Relink offline media_ adobe website](https://helpx.adobe.com/premiere-pro/using/relinking-media.html)
 
-In adobe premiere there is an option to `align timecode`.
-
-> The Align Timecode option is also checked by default to align the media file's source timecode to the clip being linked.
-
-from [_Relink offline media _adobe website](https://helpx.adobe.com/premiere-pro/using/relinking-media.html)
-
+This option can be useful if you imported in autoEdit footage directly from a camcorder that might have camera time codes offsets \(eg rec run, time of the day, free run etc..\) as autoEdit would read the metadata of the file and calculate the offset for you automatically.  
 ![](/assets/align_timecode.png)
 
 #### 

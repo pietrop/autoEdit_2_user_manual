@@ -38,7 +38,9 @@ Export an EDL, which is an[Edit decision list](https://en.wikipedia.org/wiki/Edi
 
 You can export a video sequence of selection as they appear chronologically in the video.
 
-There are other export options such as plain text or timecode text, as well as srt captions.
+#### Other export options 
+
+There are other export options such as plain text or timecode text, as well as `srt` captions.
 
 #### Note on Paper-editing
 

@@ -1,6 +1,6 @@
 # Keyboard shortcuts
 
-In Transcription view there are the following shortcuts 
+In Transcription view there are the following shortcuts.
 
 | Pause/Play | cmd + k | Play pause video |
 | :--- | :--- | :--- |
@@ -17,4 +17,6 @@ In Transcription view there are the following shortcuts
 | **Show inspector console** | Alt + cmd + j | Shows nwsj V8 inspector console, for developers, and debugging. |
 
 
+
+_FYI there are currently no shortcuts in paper-edit view._
 
