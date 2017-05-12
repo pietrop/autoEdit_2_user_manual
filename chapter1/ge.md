@@ -24,3 +24,10 @@ If you already done the initial setup downloading the language model as describe
 
 This will open your default browser with this page, and this means the Gentle server is running locally. The address should be [http://localhost:8765](http://localhost:8765]%28http://localhost:8765\).![](http://www.autoedit.io/img/gentle_browser.png " gentle\_browser")Now you are ready to chose Gentle as an option when adding a new transcription. Go back to the[user manual](http://www.autoedit.io/user_manual/usage.html)to continue.
 
+
+---
+<!--Donation notice -->
+
+Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at <a href="mailto:pietro@autoEdit.io?Subject=Hello" target="_top">pietro@autoEdit.io</a>, always curious to hear what autoEdit is helping you with.
+
+[autoEdit.io](www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer.  [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...

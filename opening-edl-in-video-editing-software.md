@@ -29,10 +29,16 @@ In adobe premiere there is an option to `align timecode`The Align Timecode optio
 
 From_ _[_Relink offline media_ adobe website](https://helpx.adobe.com/premiere-pro/using/relinking-media.html)
 
-This option can be useful if you imported in autoEdit footage directly from a camcorder that might have camera time codes offsets \(eg rec run, time of the day, free run etc..\) as autoEdit would read the metadata of the file and calculate the offset for you automatically.  
-![](/assets/align_timecode.png)
+This option can be useful if you imported in autoEdit footage directly from a camcorder that might have camera time codes offsets (eg rec run, time of the day, free run etc..) as autoEdit would read the metadata of the file and calculate the offset for you automatically.  
+![Align timecode in premiere checkbox](/assets/align_timecode.png)
 
-#### 
+---
+<!--Donation notice -->
+
+Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at <a href="mailto:pietro@autoEdit.io?Subject=Hello" target="_top">pietro@autoEdit.io</a>, always curious to hear what autoEdit is helping you with.
+
+[autoEdit.io](www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer.  [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+
 
 
 
