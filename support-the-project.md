@@ -1,10 +1,14 @@
-# Support the project
+# Support the project - draft
 
 There is a number of ways you can support the project. 
 
 ## Keep up to date with latest releases
 
-Sing up to the [mailing list](), follow on [twitter](http://twitter.com/autoEdit2) and [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with [the latest releases](https://github.com/OpenNewsLabs/autoEdit_2/releases). 
+Sing up to the [mailing list](), 
+
+<!-- TODOL and link to mailing list --> 
+
+follow on [twitter](http://twitter.com/autoEdit2) and [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with [the latest releases](https://github.com/OpenNewsLabs/autoEdit_2/releases). 
 
 ## Give some feedback on use cases
 
@@ -16,7 +20,12 @@ Help translate the user manual and app in different languages.
 
 ## Help out with documentation 
 
-Especially if you are new to the project, and you read through the user manual, and things don't make sense, feel free to get in touch pietro@autoEdit.io or [@pietropassarell](twitter.com/pietropassarell) chances are that if it's not clear to you it's not clear to others, and I'd love to lower the barry of entry as much as possible. 
+Especially if you are new to the project, and you read through the user manual, and things don't make sense, feel free to get in touch pietro@autoEdit.io
+
+<!-- TODOL and link to email -->
+
+
+  or [@pietropassarell](twitter.com/pietropassarell) chances are that if it's not clear to you it's not clear to others, and I'd love to lower the barry of entry as much as possible. 
 
 
 ## Developers
