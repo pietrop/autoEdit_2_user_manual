@@ -13,7 +13,7 @@ Help translate the user manual and app in different languages.
 
 #### Help out with documentation 
 
-Especially if you are new to the project, and you read through the docs, and things don't make sense, feel free to get in touch via email <a href="mailto:pietro@autoEdit.io?Subject=Hello" target="_top">pietro@autoEdit.io</a> or [@pietropassarell](twitter.com/pietropassarell) or [raise an issue on github](https://github.com/OpenNewsLabs/autoEdit_2) chances are that if it's not clear to you it's not clear to others, and I'd love to lower the barry of entry as much as possible. 
+If you read through the user manual, and things don't make sense, feel free to get in touch via email <a href="mailto:pietro@autoEdit.io?Subject=Hello" target="_top">pietro@autoEdit.io</a> or [@pietropassarell](twitter.com/pietropassarell) or [raise an issue on github](https://github.com/OpenNewsLabs/autoEdit_2) chances are that if it's not clear to you it's not clear to others, and I'd love to lower the barry of entry as much as possible. Also always looking for people to proofread.
 
 
 #### Give some feedback on use cases
