@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Support the project](support-the-project.md)
 * [Installing](installing.md)
 * [Transcriptions](transcribing.md)
   * [Editing Text](transcribing/editing-text.md)
