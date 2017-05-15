@@ -18,7 +18,7 @@ If you read through the user manual, and things don't make sense, feel free to g
 
 #### Give some feedback on use cases
 
-If you have been using autoEdit I am always super interested in hearing about other people's production and post-production workflow, as well projects they might have used it for, what has worked best and what hasn't.
+If you have been using autoEdit I am always super interested in hearing about other people's production and post-production workflow, as well as projects they might have used it for, what has worked best and what hasn't.
 
 
 #### For Developers
