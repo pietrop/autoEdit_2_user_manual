@@ -1,5 +1,4 @@
 
-
 # Setup: STT APIs
 
 There are three options for speech to text APIs that you can use with this system.
@@ -43,8 +42,8 @@ Check them out individually for extra setup instruction.
 
 * Working locally on your machine. No internet connection needed because of that, good for sensitive material.
 
-* Open source [github repo](https://lowerquality.com/gentle) and [I made a node module to work with the API](https://github.com/OpenNewsLabs/gentle_stt_node)  
-  .
+* Open source [github repo](https://lowerquality.com/gentle) and [I made a node module to work with the API](https://github.com/OpenNewsLabs/gentle_stt_node)
+.
 
 ##### Cons:
 
@@ -64,8 +63,8 @@ Check them out individually for extra setup instruction.
 
 * working locally on your machine. no internet connection needed because of that, good for sensitive material.
 
-* [Open source module in autoEdit ](https://github.com/OpenNewsLabs/autoEdit_2)originally extracted from [Videogrep](https://github.com/antiboredom/videogrep) project.  
-  .
+* [Open source module in autoEdit ](https://github.com/OpenNewsLabs/autoEdit_2)originally extracted from [Videogrep](https://github.com/antiboredom/videogrep) project.
+.
 
 ##### Cons:
 
@@ -82,7 +81,7 @@ Pocketsphinx does not require extra setup to use.
 
 Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at <a href="mailto:pietro@autoEdit.io?Subject=Hello" target="_top">pietro@autoEdit.io</a>, always curious to hear what autoEdit is helping you with.
 
-[autoEdit.io](www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer.  [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+[autoEdit.io](www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
 
 
 
