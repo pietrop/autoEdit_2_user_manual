@@ -1,4 +1,0 @@
-# Setup: STT APIs - Pocketsphinx
-
-
-

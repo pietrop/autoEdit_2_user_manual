@@ -8,8 +8,8 @@
   * [Shortcuts](transcribing/shortcuts.md)
 * [Paperediting](paperediting.md)
 * [Opening EDL in video editing software](opening-edl-in-video-editing-software.md)
-* [Setup: STT APIs](Setup_STT_APIs.md)
-  * [Setup: STT APIs - IBM](chapter1/test.md)
-  * [Setup: STT APIs - Gentle](chapter1/ge.md)
+* [Setup: STT APIs](setup-stt-apis.md)
+  * [Setup: STT APIs - IBM](setup-stt-apis/setup-stt-apis-ibm.md)
+  * [Setup: STT APIs - Gentle](setup-stt-apis/setup-stt-apis-gentle.md)
 * [uninstalling](uninstalling.md)
 
