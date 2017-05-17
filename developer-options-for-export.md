@@ -14,4 +14,5 @@ For example, I once went to a POV hackaton, and finished 2 hours before the dead
 - [Notes on tech used](https://github.com/pietrop/BattleSounds/blob/master/notes.md)
 
 
-The idea is that you can get the transcription (or paper-edit) `json` from autoEdit, as well as the converted webm video. [Combined with some client side tempting and a js  logic](https://github.com/pietrop/BattleSounds/blob/master/docs/index.html#L171) can quickly make an "hyper-transcript".
+The idea is that you can get the transcription (or paper-edit) `json` from autoEdit, as well as the converted webm video. [Combined with some client side tempting and a js  logic](https://github.com/pietrop/BattleSounds/blob/master/docs/index.html#L171) can quickly make an "hyper-transcript" like the one in [Battle Sound](http://pietropassarelli.com/BattleSounds/)
+.
