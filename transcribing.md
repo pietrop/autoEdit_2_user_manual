@@ -7,7 +7,7 @@ If first time using the tool go ahead and [setup the STT API system first](/setu
 1. Click on `new`
 2. Chose the media you want to open, audio or video.
 3. Fill in title and description
-4. Chose Speech To Text system you want to use \(IBM American English is the default\)
+4. Chose Speech To T ext system you want to use \(IBM American English is the default\)
 5. `Save Transcription`
 
 ![](/assets/1_getting_started.gif)
