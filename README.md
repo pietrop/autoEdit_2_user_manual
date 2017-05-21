@@ -1,4 +1,4 @@
-# autoEdit 2 user manual
+# autoEdit 2 user manual -
 
 User manual for[ autoEdit.io](http://autoEdit.io) Fast text based video editing app.
 
