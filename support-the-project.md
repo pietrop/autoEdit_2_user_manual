@@ -4,7 +4,7 @@ There is a number of ways you can support the project.
 
 #### Keep up to date with latest releases
 
-Sing up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with [the latest releases](https://github.com/OpenNewsLabs/autoEdit_2/releases). 
+Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with [the latest releases](https://github.com/OpenNewsLabs/autoEdit_2/releases). 
 
 
 #### Help with translations
