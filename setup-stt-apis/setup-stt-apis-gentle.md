@@ -4,7 +4,9 @@
 
 To use autoEdit with Gentle, Open source offline speech to text service, you need to download a separate app to run along side on your mac. First time you launch this version of the app it will download the language model to work offline.
 
-* 1.Download [Gentle version 0.9.1](https://github.com/lowerquality/gentle/releases/tag/0.9.1) about`104mb`
+* 1.Download Gentle 
+ - [Gentle Version `0.10.1`](https://github.com/lowerquality/gentle/releases/tag/0.10.1). It's the recommended version as it is the latest and most stable. But it is not backward compatible with OS X versions preceding Sierra.
+ - [Gentle version `0.9.1`](https://github.com/lowerquality/gentle/releases/tag/0.9.1) about`104mb`. It's bugging in the alignment of the transcription. But compatible with earlier version of Mac Os X. Download this only if you don't have OS X sierra and don't intend to upgrade your OS any time soon.
 
 * 2.Start the Gentle app, double click on it.
 
