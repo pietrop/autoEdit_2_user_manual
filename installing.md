@@ -2,7 +2,8 @@
 
 ### Download {#download}
 
-Download latest stable release from [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what’s change from previous one.
+
+Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
 
 * download the `dmg` file
 * open it/mount it on your mac/finder
