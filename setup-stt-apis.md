@@ -5,8 +5,8 @@ There are three options for speech to text APIs that you can use with this syste
 
 Check them out individually for extra setup instruction.
 
-1. [IBM Watson STT](/setup-stt-apis-ibm.md)
-2. [Gentle STT ](/setup-stt-apis-gentle.md)\(Open Source, needs a separate app for setup\)
+1. [IBM Watson STT](/setup-stt-apis/setup-stt-apis-ibm.md)
+2. [Gentle STT](/setup-stt-apis/setup-stt-apis-gentle.md) \(Open Source, needs a separate app for setup\)
 3. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
 
 ### Overview {#overview}
@@ -30,7 +30,7 @@ Check them out individually for extra setup instruction.
 * Need to provide card details for pay as you go fee.
 * is in the cloud so no offline support.
 
-[Check out for extra setup instructions for IBM](/setup-stt-apis-ibm.md).
+[Check out for extra setup instructions for IBM](/setup-stt-apis/setup-stt-apis-ibm.md).
 
 ---
 
@@ -76,12 +76,11 @@ Pocketsphinx does not require extra setup to use.
 
 ---
 
----
 <!--Donation notice -->
 
 Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at <a href="mailto:pietro@autoEdit.io?Subject=Hello" target="_top">pietro@autoEdit.io</a>, always curious to hear what autoEdit is helping you with.
 
-[autoEdit.io](www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+[autoEdit.io](http://www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
 
 
 
