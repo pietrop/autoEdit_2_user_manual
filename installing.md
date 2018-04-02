@@ -1,9 +1,9 @@
 # Installing
 
-### Download {#download}
+## Download {#download}
 
 
-Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
+Download the latest stable release from the [releases page](https://github.com/pietrop/subtitlesComposer-app/releases). Check out the release description to see what has changed from the previous version.
 
 * download the `dmg` file
 * open it/mount it on your mac/finder
@@ -15,9 +15,13 @@ Download the latest stable release from the [releases page](https://github.com/O
 if you get the`unidentified developer`error follow [these instructions](https://support.apple.com/kb/ph18657?locale=en_US)
 
 
----
-<!--Donation notice -->
 
-Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at <a href="mailto:pietro@autoEdit.io?Subject=Hello" target="_top">pietro@autoEdit.io</a>, always curious to hear what autoEdit is helping you with.
+## Extra dependency: Aeneas
 
-[autoEdit.io](www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer.  [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+[Aeneas](https://github.com/readbeyond/aeneas) is an open source tool that is used by this app under the hood to do the alignment. 
+
+--> **In order to use the app you need to install Aeneas on your computer.** <--
+
+You can install it for [mac os x by downloading the `dmg` from this link](https://github.com/sillsdev/aeneas-installer/releases)
+
+![Aeneas install shortcut link](/assets/intro-aeneas-notice.png)
