@@ -4,6 +4,12 @@
 
 Here to[get API keys for IBM Bluemix Watson Speech To Text service](https://console.ng.bluemix.net/catalog/services/speech-to-text)
 
+_Not that after you have made your IBM Bluemix account you need the IBM Watson Speech to text credentials for autoEdit.
+_
+
+**[Here is an unofficial guide to get the IBM Bluemix Speech to text credentials](https://docs.google.com/document/d/1P9GQayzmoRHaDK_p4jPdMChfvQNCzmjQTNWmXFXkOiY/edit?usp=sharing)**
+
+
 #### Add the API keys to the app at startup {#add-the-api-keys-to-the-app-at-startup}
 
 When you first launch the app by double clicking on it you are taken to the credentials page. Where you can add IBM Watson Speech to text service username and password API keys.
