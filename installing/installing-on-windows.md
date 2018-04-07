@@ -1,17 +1,9 @@
-# Installing
+# Installing - Windows
 
 ## Download {#download}
 
 
-Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
-
-See appropriate subsections for your operating system 
-
-- [Mac OSX](/installing/installing-on-mac-osx.md)
-- [Linux](/installing/installing-on-linux.md) 
-- [Windows](/installing/installing-on-windows.md) -  _coming soon_
-
-
+_coming soon_
 
 ---
 <!--Donation notice -->

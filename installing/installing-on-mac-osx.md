@@ -1,16 +1,18 @@
-# Installing
+# Installing - Mac OSX
 
 ## Download {#download}
 
 
 Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
 
-See appropriate subsections for your operating system 
+* download the `dmg` file
+* open it/mount it on your mac/finder
+* drag the app into the applications folder
+* add it to the dock if you want a shortcut to it.
 
-- [Mac OSX](/installing/installing-on-mac-osx.md)
-- [Linux](/installing/installing-on-linux.md) 
-- [Windows](/installing/installing-on-windows.md) -  _coming soon_
+### `unidentified developer` {#unidentified-developer}
 
+if you get the`unidentified developer`error follow [these instructions](https://support.apple.com/kb/ph18657?locale=en_US)
 
 
 ---
