@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Support the project](support-the-project.md)
 * [Installing](installing.md)
+  * [Installing on Linux](installing/installing-on-linux.md)
 * [Transcriptions](transcribing.md)
   * [Editing Text](transcribing/editing-text.md)
   * [Shortcuts](transcribing/shortcuts.md)
