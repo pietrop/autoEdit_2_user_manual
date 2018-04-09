@@ -1,5 +1,5 @@
 # Speechmatics
-
+ 
 Same steps as for IBM to add to autoEdit.
 
  - sign up to [speechmatics](https://app.speechmatics.com/login) 
