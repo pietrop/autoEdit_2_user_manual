@@ -6,8 +6,9 @@ There are three options for speech to text APIs that you can use with this syste
 Check them out individually for extra setup instruction.
 
 1. [IBM Watson STT](/setup-stt-apis/setup-stt-apis-ibm.md)
-2. [Gentle STT](/setup-stt-apis/setup-stt-apis-gentle.md) \(Open Source, needs a separate app for setup\)
-3. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
+2. [Speechmatics](/setup-stt-apis/setup-stt-apis-speechmatics.md)
+3. [Gentle STT](/setup-stt-apis/setup-stt-apis-gentle.md) \(Open Source, needs a separate app for setup\)
+4. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
 
 ### Overview {#overview}
 
@@ -31,6 +32,15 @@ Check them out individually for extra setup instruction.
 * is in the cloud so no offline support.
 
 [Check out for extra setup instructions for IBM](/setup-stt-apis/setup-stt-apis-ibm.md).
+
+
+#### Speechmatics STT Service {#ibm-watson-stt-service}
+
+* 1 hour free credit with new account 
+* Easy to setup credentials 
+* Generally pretty accurate \(my opinion, judge for yourself\)
+* [28 languages, see full list](https://www.speechmatics.com/language-support/) Including support for "accent agnostic global english".
+
 
 ---
 
