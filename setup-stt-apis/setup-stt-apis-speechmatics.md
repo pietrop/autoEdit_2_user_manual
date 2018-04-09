@@ -2,7 +2,7 @@
  
 Same steps as for IBM to add to autoEdit.
 
- - sign up to [speechmatics](https://app.speechmatics.com/login) 
+ - sign up to [speechmatics](https://app.speechmatics.com/login) at [app.speechmatics.com/](https://app.speechmatics.com)
  - Navbar click `Account`
  - Get `User ID` and `API Auth Token`
  - copy and paste into autoEdit settings under `Speechmatics`. 
