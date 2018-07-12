@@ -66,7 +66,9 @@ Check them out individually for extra setup instruction.
 
 ---
 
-#### Pocketsphinx Open Source STT
+#### Rev Transcription service {#rev-transcription-service}
+
+
 
 ##### Pros:
 
@@ -84,6 +86,23 @@ Check them out individually for extra setup instruction.
 * in autoEdit, at the moment not as fast as IBM one, takes a little longer then the length of the media. \(eg 27 min takes 30 min to transcribe\).
 
 Pocketsphinx does not require extra setup to use.
+
+---
+
+#### Rev Transcription service
+
+##### Pros:
+
+* Transcription service with real humans
+* In theory more accurate then automated transcriptions
+
+##### Cons:
+
+* Price more expensive then automated transcriptions
+* Turnaround slower then automated transcriptions.
+
+
+
 
 ---
 
