@@ -2,7 +2,7 @@
 
 #### GET Rev  API Keys {#get-rev-api-keys}
 
-Here to[get API keys for Rev transcription t service](https://www.rev.com/api/quick-start/moving-to-production)
+See [here to get API keys for Rev transcription t service](https://www.rev.com/api/quick-start/moving-to-production)
 
 <!--
 if you are a developer there is also an option to get sandbox credentials to try out with their demo content. However unfortunately, for some reason, their demo transcription does not match the corresponding video file, and does not have word accurate timestamps. -->
