@@ -15,6 +15,7 @@
   * [Setup: STT APIs - IBM](setup-stt-apis/setup-stt-apis-ibm.md)
   * [Setup: STT APIs - Gentle](setup-stt-apis/setup-stt-apis-gentle.md)
   * [Setup: STT APIs - Speechmatics](setup-stt-apis/setup-stt-apis-speechmatics.md)
+  * [Setup: STT APIs - Rev](setup-stt-apis/setup-stt-apis-rev.md)
 * [uninstalling](uninstalling.md)
 * [Developer Options for Export](developer-options-for-export.md)
 
