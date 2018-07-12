@@ -9,6 +9,7 @@ Check them out individually for extra setup instruction.
 2. [Speechmatics](/setup-stt-apis/setup-stt-apis-speechmatics.md)
 3. [Gentle STT](/setup-stt-apis/setup-stt-apis-gentle.md) \(Open Source, needs a separate app for setup\)
 4. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
+5. Rev - Human transcriptions
 
 ### Overview {#overview}
 
