@@ -35,11 +35,13 @@ If there are multiple transcriptions associated with one order, autoEdit, in cur
 
 The workaround is to keep one media file per order, for now.
 
+
+##### Rev and autoEdit
+
+Note that autoEdit, for simplicity in the current implementation, does not let you submit an order to Rev through the app. You'd have to submit your transcriptions orders through the Rev website, and then use the order number to add it to autoEdit, when Rev notifies you that the transcription is ready.
+
 ---
 Now you are ready to chose Rev as an option [when adding a new transcription](/transcribing.md). Checkout the[ transcribing section of the user manual](/transcribing.md) to see how to do that.
-
-
-
 
 ---
 <!--Donation notice -->
