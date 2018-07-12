@@ -66,7 +66,7 @@ Check them out individually for extra setup instruction.
 
 ---
 
-#### Rev Transcription service {#rev-transcription-service}
+#### Pocketsphinx Open Source STT {#pocketsphinx-open-source-stt}
 
 
 
@@ -75,6 +75,7 @@ Check them out individually for extra setup instruction.
 * Free as in free speech as well as in free beer.
 
 * working locally on your machine. no internet connection needed because of that, good for sensitive material.
+
 
 * [Open source module in autoEdit ](https://github.com/OpenNewsLabs/autoEdit_2)originally extracted from [Videogrep](https://github.com/antiboredom/videogrep) project.
 .
@@ -89,12 +90,14 @@ Pocketsphinx does not require extra setup to use.
 
 ---
 
-#### Rev Transcription service
+#### Rev Transcription service {#rev-transcription-service}
+
 
 ##### Pros:
 
-* Transcription service with real humans
+* [Transcription service from real humans](https://www.rev.com/transcription)
 * In theory more accurate then automated transcriptions
+* word level timestamps 
 
 ##### Cons:
 
