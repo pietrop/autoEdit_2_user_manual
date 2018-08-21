@@ -1,17 +1,17 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Support the project](support-the-project.md)
-* [Installing](installing.md)
+* [Installing](installing/README.md)
   * [Installing on Mac OSX](installing/installing-on-mac-osx.md)
   * [Installing on Linux](installing/installing-on-linux.md)
   * [Installing on Windows](installing/installing-on-windows.md)
-* [Transcriptions](transcribing.md)
+* [Transcriptions](transcribing/README.md)
   * [Editing Text](transcribing/editing-text.md)
   * [Shortcuts](transcribing/shortcuts.md)
 * [Paperediting](paperediting.md)
 * [Opening EDL in video editing software](opening-edl-in-video-editing-software.md)
-* [Setup: STT APIs](setup-stt-apis.md)
+* [Setup: STT APIs](setup-stt-apis/README.md)
   * [Setup: STT APIs - IBM](setup-stt-apis/setup-stt-apis-ibm.md)
   * [Setup: STT APIs - Gentle](setup-stt-apis/setup-stt-apis-gentle.md)
   * [Setup: STT APIs - Speechmatics](setup-stt-apis/setup-stt-apis-speechmatics.md)

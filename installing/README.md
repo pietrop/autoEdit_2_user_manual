@@ -1,12 +1,14 @@
-# Introduction
+# Installing
 
-User manual for[ autoEdit.io](http://autoEdit.io) Fast text based video editing app.
+## Download {#download}
 
-The user manual is currently up to date with version `1.0.6`.
+Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
 
-If first time using the tool [download the latest release](https://github.com/OpenNewsLabs/autoEdit_2/releases) and [setup the STT API system first](setup-stt-apis/).
+See appropriate subsections for your operating system
 
-If you don't have experience editing audio/video interviews or would like a refresher on the most effective process, you might want to check out this other gitbook ["How to tell compelling stories out of video interviews"](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/).
+* [Mac OSX](installing-on-mac-osx.md)
+* [Linux](installing-on-linux.md) 
+* [Windows](installing-on-windows.md) -  _coming soon_
 
 Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
 
