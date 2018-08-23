@@ -21,7 +21,7 @@
 
 ## autoEdit - Adobe Panel
 
-* [Install](autoedit-adobe-panel/install.md)
+* [Install 🚧](autoedit-adobe-panel/install.md)
 * [Import media](autoedit-adobe-panel/import-media.md)
 * [Transcription to source monitor](autoedit-adobe-panel/transcription-to-source-monitor.md)
 * [Transcription export selections](autoedit-adobe-panel/transcription-export-selections.md)
