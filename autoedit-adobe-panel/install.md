@@ -29,11 +29,11 @@ follow these instructions instead, from point **2** **Install your extension wit
 
 {% embed data="{\"url\":\"https://www.adobeexchange.com/creativecloud/install-instructions.100819.html\",\"type\":\"link\",\"title\":\"Install Instructions\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.adobeexchange.com/content/dam/adobeexchange/favicon.ico\",\"aspectRatio\":0}}" %}
 
+\_\_
+
 {% hint style="info" %}
-any issues feel free to get in touch pietro@autoEdit.io 
+Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
 {% endhint %}
-
-
 
 
 
