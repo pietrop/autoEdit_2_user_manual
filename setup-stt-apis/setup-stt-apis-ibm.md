@@ -14,7 +14,9 @@ When you first launch the app by double clicking on it you are taken to the cred
 
 _Note that these are not your IBM Bluemix credentials, but you have to create a speech to text service within Bluemix and get those credentials._
 
-## ![](../.gitbook/assets/credentials.png)Click on `Save Credentials`
+![](../.gitbook/assets/credentials.png)
+
+## Click on `Save Credentials`
 
 Click on `Save Credentials` and that’s it. You are ready to go.
 
