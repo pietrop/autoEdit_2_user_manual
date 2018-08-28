@@ -11,6 +11,8 @@ If you want to know more about what is paper-editing, and why should you bother,
 ## 1. Create a new paper-edit {#adding-a-videoaudio}
 
 Click on `New Paperedit`, give it a title and description \(optional\) and click Save `Paperedit`.  
+
+
 ![](.gitbook/assets/0_paperedit.gif)
 
 This will take you back to the list of paper-edits, click on the one you just created to go to the next step.
@@ -36,16 +38,22 @@ As you have seen above by default your selections are added at the end of the pa
 To keep your story organised you can add headings/`story points`.
 
 At present headings help you keep the story organised within autoEdit and are not included in the EDL export.  
+
+
 ![](.gitbook/assets/4_paperedit.gif)
 
 ## 5. Reorganise selections {#adding-a-videoaudio}
 
 To reorder selections, drag the papercut you would like to move and drop it where you'd like to position it.  
+
+
 ![](.gitbook/assets/5_paperedit.gif)
 
 ## 6. Delete one {#adding-a-videoaudio}
 
 To delete a selection drag it onto the bin.  
+
+
 ![](.gitbook/assets/6_paperedit.gif)
 
 ## 7. Delete all {#adding-a-videoaudio}

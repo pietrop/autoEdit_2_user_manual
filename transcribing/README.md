@@ -16,12 +16,16 @@ If first time using the tool go ahead and [setup the STT API system first](../se
 
 The transcription will take a round **5 minutes** process regardless of the length of the media
 
- ****![](../.gitbook/assets/2_processing_transcription.gif)to
+ ****to
+
+![](../.gitbook/assets/2_processing_transcription.gif)
 
 ## 2. Selecting text from a transcription {#selecting-text-from-a-transcription}
 
 If you click on a word the video starts playing from that point.  
 Make a selections of text you’d like to include in your video sequence.  
+
+
 ![Transcription](../.gitbook/assets/3_transcription_2.gif)
 
 ## 3. Exporting a video sequence\(EDL\) {#exporting-a-video-sequenceedl}
