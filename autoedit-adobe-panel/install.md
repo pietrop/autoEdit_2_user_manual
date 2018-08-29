@@ -17,9 +17,9 @@ You can download the [autoEdit2 Adobe Panel from the Adobe Exchange marketplace]
 
 ## Install "third party" extension 
 
-Follow the link for autoEdit2 [Adobe CEP Panel, pre-release](https://github.com/OpenNewsLabs/autoEdit_2/releases/tag/autoEdit2-1.0.12-cep).
+Follow the link for autoEdit2 [Adobe CEP Panel, pre-release](https://github.com/OpenNewsLabs/autoEdit_2/releases/tag/autoEdit2-1.0.13-cep).
 
-{% embed data="{\"url\":\"https://github.com/OpenNewsLabs/autoEdit\_2/releases/tag/autoEdit2-1.0.12-cep\",\"type\":\"link\",\"title\":\"OpenNewsLabs/autoEdit\_2\",\"description\":\"autoEdit\_2 - Fast text based video editing, node Electron Os X desktop app, with Backbone front end.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/1502863?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed data="{\"url\":\"https://github.com/OpenNewsLabs/autoEdit\_2/releases/tag/autoEdit2-1.0.13-cep\",\"type\":\"link\",\"title\":\"OpenNewsLabs/autoEdit\_2\",\"description\":\"Fast text based video editing, node Electron Os X desktop app, with Backbone front end. - OpenNewsLabs/autoEdit\_2\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/1502863?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
 
 And [these instructions](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html#Install_third_party_extensions%20) if you are familiar with using the terminal
 
