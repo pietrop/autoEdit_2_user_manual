@@ -42,7 +42,7 @@ Check them out individually for extra setup instruction.
 * Competitive pricing at $0.0003 per second
 * Easy to setup credentials 
 * Generally very accurate \(my opinion, judge for yourself\)
-* For now only support for US English but more coming soon
+* For now only support for English but more coming soon
 
 ### Gentle Open Source STT {#gentle-open-source-stt}
 
