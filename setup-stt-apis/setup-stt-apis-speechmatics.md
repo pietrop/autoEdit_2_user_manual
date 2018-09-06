@@ -1,6 +1,6 @@
 # Setup: STT APIs - Speechmatics
 
-Same steps as for IBM instructions to add to autoEdit.
+Same steps as for [IBM instructions](setup-stt-apis-ibm.md#add-the-api-keys-to-the-app-at-startup) to add to autoEdit.
 
 * sign up to [speechmatics](https://app.speechmatics.com/login) at [app.speechmatics.com/](https://app.speechmatics.com)
 * In the navigation bar click `Account`
