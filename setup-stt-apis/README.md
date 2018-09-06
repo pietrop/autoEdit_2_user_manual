@@ -6,9 +6,10 @@ Check them out individually for extra setup instruction.
 
 1. [IBM Watson STT](setup-stt-apis-ibm.md)
 2. [Speechmatics](setup-stt-apis-speechmatics.md)
-3. [Gentle STT](setup-stt-apis-gentle.md) \(Open Source, needs a separate app for setup\)
-4. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
-5. [Rev - Transcriptions service](setup-stt-apis-rev.md)
+3. [AssemblyAI](setup-stt-apis-assemblyai.md)
+4. [Gentle STT](setup-stt-apis-gentle.md) \(Open Source, needs a separate app for setup\)
+5. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
+6. [Rev - Transcriptions service](setup-stt-apis-rev.md)
 
 ## Overview {#overview}
 
@@ -34,6 +35,14 @@ Check them out individually for extra setup instruction.
 * Easy to setup credentials 
 * Generally pretty accurate \(my opinion, judge for yourself\)
 * [28 languages, see full list](https://www.speechmatics.com/language-support/) Including support for "accent agnostic global english".
+
+### AssemblyAI STT Service {#ibm-watson-stt-service}
+
+*  Free tier: 5 hours free per month
+* Competitive pricing at $0.0003 per second
+* Easy to setup credentials 
+* Generally very accurate \(my opinion, judge for yourself\)
+* For now only support for US English but more coming soon
 
 ### Gentle Open Source STT {#gentle-open-source-stt}
 
