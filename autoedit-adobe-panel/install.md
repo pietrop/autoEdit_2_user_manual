@@ -21,6 +21,8 @@ Follow the link for autoEdit2 [Adobe CEP Panel, pre-release](https://github.com/
 
 {% embed data="{\"url\":\"https://github.com/OpenNewsLabs/autoEdit\_2/releases/tag/autoEdit2-1.0.13-cep\",\"type\":\"link\",\"title\":\"OpenNewsLabs/autoEdit\_2\",\"description\":\"Fast text based video editing, node Electron Os X desktop app, with Backbone front end. - OpenNewsLabs/autoEdit\_2\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/1502863?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
 
+**Option 1:** using the terminal  
+  
 And [these instructions](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html#Install_third_party_extensions%20) if you are familiar with using the terminal
 
 {% embed data="{\"url\":\"https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html\#Install\_third\_party\_extensions\\n\",\"type\":\"link\",\"title\":\"Install add-ons and extensions for Adobe apps\",\"description\":\"As of Creative Cloud 2015, add-ons and extensions for Adobe applications are installed through the Creative Cloud desktop application. To install third-party extensions, you can use the Extension Manager command-line tool.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://helpx.adobe.com/include/img/favicon.ico\",\"aspectRatio\":0}}" %}
@@ -29,7 +31,12 @@ follow these instructions instead, from point **2** **Install your extension wit
 
 {% embed data="{\"url\":\"https://www.adobeexchange.com/creativecloud/install-instructions.100819.html\",\"type\":\"link\",\"title\":\"Install Instructions\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.adobeexchange.com/content/dam/adobeexchange/favicon.ico\",\"aspectRatio\":0}}" %}
 
-\_\_
+  
+**Option 2:** using a third party package manager
+
+You can use this third party package manager to handle the installation. 
+
+{% embed data="{\"url\":\"https://install.anastasiy.com/\",\"type\":\"link\",\"title\":\"Anastasiy\'s Extension Manager for Adobe platform\",\"description\":\"Install, Uninstall, Manage and Update any ZXP extensions for Adobe® software. Easily!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://install.anastasiy.com/favicon2.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://install.anastasiy.com/img/Logo3.png\",\"width\":256,\"height\":256,\"aspectRatio\":1}}" %}
 
 {% hint style="info" %}
 Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
