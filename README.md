@@ -2,8 +2,6 @@
 
 User manual for[ autoEdit.io](http://autoEdit.io) Fast text based video editing app.
 
-The user manual is currently up to date with version `1.0.13`.
-
 If first time using the tool [download the latest release](https://github.com/OpenNewsLabs/autoEdit_2/releases) and [setup the STT API system first](setup-stt-apis/).
 
 If you don't have experience editing audio/video interviews or would like a refresher on the most effective process, you might want to check out this other gitbook ["How to tell compelling stories out of video interviews"](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/).
