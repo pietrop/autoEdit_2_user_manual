@@ -10,6 +10,10 @@ _Not that after you have made your IBM Bluemix account you need the IBM Watson S
 
 ## Add the API keys to the app at startup {#add-the-api-keys-to-the-app-at-startup}
 
+{% hint style="warning" %}
+Important, this page is out of date, and will need to be updated at some point, for now follow [these instruction ](https://github.com/OpenNewsLabs/autoEdit_2/pull/50)
+{% endhint %}
+
 When you first launch the app by double clicking on it you are taken to the credentials page. Where you can add IBM Watson Speech to text service username and password API keys.
 
 _Note that these are not your IBM Bluemix credentials, but you have to create a speech to text service within Bluemix and get those credentials._
