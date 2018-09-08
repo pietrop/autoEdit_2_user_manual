@@ -11,6 +11,8 @@ If you want to know more about what is paper-editing, and why should you bother,
 ## 1. Create a new paper-edit {#adding-a-videoaudio}
 
 Click on `New Paperedit`, give it a title and description \(optional\) and click Save `Paperedit`.  
+
+
 ![](.gitbook/assets/0_paperedit.gif)
 
 This will take you back to the list of paper-edits, click on the one you just created to go to the next step.
@@ -36,16 +38,22 @@ As you have seen above by default your selections are added at the end of the pa
 To keep your story organised you can add headings/`story points`.
 
 At present headings help you keep the story organised within autoEdit and are not included in the EDL export.  
+
+
 ![](.gitbook/assets/4_paperedit.gif)
 
 ## 5. Reorganise selections {#adding-a-videoaudio}
 
 To reorder selections, drag the papercut you would like to move and drop it where you'd like to position it.  
+
+
 ![](.gitbook/assets/5_paperedit.gif)
 
 ## 6. Delete one {#adding-a-videoaudio}
 
 To delete a selection drag it onto the bin.  
+
+
 ![](.gitbook/assets/6_paperedit.gif)
 
 ## 7. Delete all {#adding-a-videoaudio}
@@ -70,7 +78,15 @@ You can export an EDL\(edit decision list\) of the selections you have made in t
 
 [Check out this section on how to open an EDL](https://www.gitbook.com/book/pietropassarelli/autoedit2-user-manual/edit#) in a video editing software of choice to get a video sequence of your selections.
 
-Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
+\_\_
 
-[autoEdit.io](https://github.com/pietrop/autoEdit_2_user_manual/tree/d5c8cea5ec4e2a1cee11515e8a838d832407badc/www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+{% hint style="info" %}
+Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
+{% endhint %}
+
+{% hint style="info" %}
+[autoEdit.io](http://www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+{% endhint %}
+
+
 

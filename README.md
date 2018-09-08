@@ -2,7 +2,7 @@
 
 User manual for[ autoEdit.io](http://autoEdit.io) Fast text based video editing app.
 
-The user manual is currently up to date with version `1.0.6`.
+The user manual is currently up to date with version `1.0.13`.
 
 If first time using the tool [download the latest release](https://github.com/OpenNewsLabs/autoEdit_2/releases) and [setup the STT API system first](setup-stt-apis/).
 

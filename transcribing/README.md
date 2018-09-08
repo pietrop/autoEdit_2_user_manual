@@ -16,12 +16,16 @@ If first time using the tool go ahead and [setup the STT API system first](../se
 
 The transcription will take a round **5 minutes** process regardless of the length of the media
 
- ****![](../.gitbook/assets/2_processing_transcription.gif)to
+ ****to
+
+![](../.gitbook/assets/2_processing_transcription.gif)
 
 ## 2. Selecting text from a transcription {#selecting-text-from-a-transcription}
 
 If you click on a word the video starts playing from that point.  
 Make a selections of text you’d like to include in your video sequence.  
+
+
 ![Transcription](../.gitbook/assets/3_transcription_2.gif)
 
 ## 3. Exporting a video sequence\(EDL\) {#exporting-a-video-sequenceedl}
@@ -44,7 +48,15 @@ If you want to work with more elaborate selections pulling from multiple transcr
 
 [Checkout this section on how to open an EDL](../opening-edl-in-video-editing-software.md) in a video editing software of choice to get a video sequence of your selections.
 
-Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
+\_\_
 
-[autoEdit.io](https://github.com/pietrop/autoEdit_2_user_manual/tree/d5c8cea5ec4e2a1cee11515e8a838d832407badc/www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+{% hint style="info" %}
+Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
+{% endhint %}
+
+{% hint style="info" %}
+[autoEdit.io](http://www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
+{% endhint %}
+
+
 
