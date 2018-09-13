@@ -19,6 +19,17 @@ To import the EDL and reconnect the sequence
 
 ![processing transcription](http://www.autoedit.io/img/gif/5_EDL_in_premiere.gif)
 
+## Davinci Resolve - 15
+
+{% embed data="{\"url\":\"https://www.blackmagicdesign.com/uk/products/davinciresolve/\",\"type\":\"link\",\"title\":\"DaVinci Resolve 15 \| Blackmagic Design\",\"description\":\"Revolutionary new tools for editing, color correction and professional audio post production, all in a single application!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.blackmagicdesign.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+1. Got to `File` --&gt;  `Import Timeline` --&gt; `Import AFF, EDL, XML ...`
+2. Select your EDL file
+3. Add sequence settings if needed 
+4. If you have your clip in the `Media Pool` it should automatically reconnect the sequence, if you have no clips in the Media Pool it might complain and note let you import the EDL. Otherwise if the right clip are not in the media pool, you  might  need to reconnect them to the original. See Davinci Resolve user manual for how.
+
+
+
 ## **a Note on working with Final cut pro X**
 
 For now a workaround for Final cut pro X not supporting EDL is that you can open the EDL in [Davinci resolve](https://www.blackmagicdesign.com/products/davinciresolve) convert it to XML that will work with final cut X.
