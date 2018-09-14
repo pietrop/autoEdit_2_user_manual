@@ -2,9 +2,16 @@
 
 ## Download {#download}
 
-_coming soon_
+Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
 
-\_\_
+* download the `zip` file
+* Install it on your PC
+
+{% hint style="warning" %}
+The windows version is still experimental, If you run into any issues, feel try to get in touch to help improve it [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello)
+{% endhint %}
+
+
 
 {% hint style="info" %}
 Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](http://twitter.com/autoEdit2) and/or [facebook](https://www.facebook.com/autoEdit.io/) to keep up to date with the latest releases. Say hi at [pietro@autoEdit.io](mailto:pietro@autoEdit.io?Subject=Hello), always curious to hear what autoEdit is helping you with.
