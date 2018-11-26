@@ -2,24 +2,24 @@
 
 ## First time setup
 
-To use autoEdit with Gentle, Open source offline speech to text service, you need to download a separate app to run along side on your mac. First time you launch this version of the app it will download the language model to work offline.
+To use autoEdit with Gentle, an open source offline speech to text service, you need to download a separate app to run alongside autoEdit2 on your mac. The first time you launch Gentle it will download the language model to work offline.
 
 * 1.Download Gentle
-  * [Gentle Version `0.10.1`](https://github.com/lowerquality/gentle/releases/tag/0.10.1). It's the recommended version as it is the latest and most stable. But it is not backward compatible with OS X versions preceding Sierra.
-  * [Gentle version `0.9.1`](https://github.com/lowerquality/gentle/releases/tag/0.9.1) about`104mb`. It's bugging in the alignment of the transcription. But compatible with earlier version of Mac Os X. Download this only if you don't have OS X sierra and don't intend to upgrade your OS any time soon.
-* 2.Start the Gentle app, double click on it.
+  * [Gentle Version `0.10.1`](https://github.com/lowerquality/gentle/releases/tag/0.10.1). This is the recommended version as it is the latest and most stable. But it is not backward compatible with OS X versions preceding Sierra.
+  * [Gentle version `0.9.1`](https://github.com/lowerquality/gentle/releases/tag/0.9.1) about`104mb`. It's buggy in the alignment of the transcription, but is compatible with earlier versions of Mac Os X. Download this only if you don't have OS X Sierra or later, and don't intend to upgrade your OS any time soon.
+* 2.Start the Gentle app by double clicking on it.
 * 3.Click`Enable full transcription`, this will download the language model component to be able to work offline.
 
 ![gentle\_enable\_full\_transcription](../.gitbook/assets/gentle_enable_full_transcription.png)
 
-* 4.restart the app
+* 4.restart the Gentle app
 * 5.the Gentle server is now up and running.
 
-Future times, you just need to launch gentle anche check local host is working.
+From now on, you just need to launch Gentle and check local host is working.
 
 ## Launching Gentle’s local server
 
-If you already done the initial setup downloading the language model as described above, all you need to do when using gentle is click `open in browser`.
+If you've already done the initial setup, downloading the language model as described above, all you need to do when using Gentle is click `open in browser`.
 
 ![gentle\_open\_in\_browser](../.gitbook/assets/gentle_open_in_browser.png)
 
