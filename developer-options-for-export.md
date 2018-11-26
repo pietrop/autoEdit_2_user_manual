@@ -1,12 +1,12 @@
 # Developer Options for Export
 
-Both in transcription view and in paper-edit view, there is the option for developers users to export a `json`. Either of the transcription or of the paper-edit.
+Both in transcription view and in paper-edit view, there is the option for developers to export a `json`, either of the transcription or of the paper-edit.
 
 This is because autoEdit could be used as a starting point to build interactives that have some component that is "transcription powered".
 
 ## Example
 
-For example, I once went to a POV hackaton, and finished 2 hours before the deadline thanks to this.
+For example, I once went to a POV hackathon, and finished 2 hours before the deadline thanks to this.
 
 * [github repo](https://github.com/pietrop/BattleSounds)
 * [presentation](https://docs.google.com/presentation/d/19TB4CpkCDqMJQvhmZF3I9AN7IQ0VsIA8nsfpdHkfDss/)
