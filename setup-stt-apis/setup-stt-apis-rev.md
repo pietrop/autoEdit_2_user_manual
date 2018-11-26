@@ -6,7 +6,7 @@ See [here to get API keys for Rev transcription t service](https://www.rev.com/a
 
 ## Add the API keys to the app at startup {#add-the-api-keys-to-the-app-at-startup}
 
-When you first launch the app by double clicking on it you are taken to the credentials page. Where you can add Rev transcription service username and password API keys.
+When you first launch the app by double clicking on it you are taken to the credentials page. Here you can add Rev transcription service username and password API keys.
 
 ![Rev credentials](../.gitbook/assets/credentials-rev.png)
 
@@ -18,10 +18,10 @@ Visit the credentials page to review or change the API keys.
 
 ### Using Rev in autoEdit
 
-1. When choosing Rev, as a transcription option, you'll be prompted to add the order number for the transcription.
+1. When choosing Rev as a transcription option, you'll be prompted to add the order number for the transcription.
 2. You also need to add the original file you'd like to reconnect with the transcription.
 
-This allows to get informations about the original media, [so that when you export an EDL from autoEdit](../paperediting.md), [you can reconnect to the right source footage in your video editing software of choice](../opening-edl-in-video-editing-software.md).
+This allows Rev to get informations about the original media, [so that when you export an EDL from autoEdit](../paperediting.md), [you can reconnect to the right source footage in your video editing software of choice](../opening-edl-in-video-editing-software.md).
 
 ### Rev Order number, media files and transcriptions
 
@@ -35,7 +35,7 @@ The workaround is to keep one media file per order, for now.
 
 Note that autoEdit, for simplicity in the current implementation, does not let you submit an order to Rev through the app. You'd have to submit your transcriptions orders through the Rev website, and then use the order number to add it to autoEdit, when Rev notifies you that the transcription is ready.
 
-Now you are ready to chose Rev as an option [when adding a new transcription](../transcribing/). Checkout the[ transcribing section of the user manual](../transcribing/) to see how to do that.
+Now you are ready to chose Rev as an option [when adding a new transcription](../transcribing/). Check out the[ transcribing section of the user manual](../transcribing/) to see how to do that.
 
 \_\_
 
