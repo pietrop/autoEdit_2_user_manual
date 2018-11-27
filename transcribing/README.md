@@ -1,20 +1,20 @@
 # Transcriptions
 
-If first time using the tool go ahead and [setup the STT API system first](../setup-stt-apis/).
+If this is your first time using the tool go ahead and [setup the STT API system first](../setup-stt-apis/).
 
 ## 1. Adding a video/audio {#adding-a-videoaudio}
 
 1. Click on `new`
-2. Chose the media you want to open, audio or video.
+2. Choose the media you want to open, audio or video.
 3. Fill in title and description
-4. Chose Speech To T ext system you want to use \(IBM American English is the default\)
+4. Chose Speech To Text (STT) system you want to use \(IBM American English is the default\)
 5. `Save Transcription`
 
 ![](../.gitbook/assets/1_getting_started.gif)
 
 [For a list of supported media file type see ffmpeg\(which is what has been used for the file conversion under the hood\)](https://ffmpeg.org/general.html#Supported-File-Formats_002c-Codecs-or-Features)
 
-The transcription will take a round **5 minutes** process regardless of the length of the media
+If you stick with the IBM default, the transcription will take around **5 minutes** process regardless of the length of the media.
 
  ****to
 
@@ -22,7 +22,7 @@ The transcription will take a round **5 minutes** process regardless of the leng
 
 ## 2. Selecting text from a transcription {#selecting-text-from-a-transcription}
 
-If you click on a word the video starts playing from that point.  
+If you click on a word, the video starts playing from that point.  
 Make a selections of text you’d like to include in your video sequence.  
 
 
@@ -30,7 +30,7 @@ Make a selections of text you’d like to include in your video sequence.
 
 ## 3. Exporting a video sequence\(EDL\) {#exporting-a-video-sequenceedl}
 
-Export an EDL, which is an[Edit decision list](https://en.wikipedia.org/wiki/Edit_decision_list).
+Export an EDL, which is an [Edit decision list](https://en.wikipedia.org/wiki/Edit_decision_list).
 
 ![Transcription](../.gitbook/assets/4_export.gif)
 
