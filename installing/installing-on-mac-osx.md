@@ -11,7 +11,7 @@ Download the latest stable release from the [releases page](https://github.com/O
 
 ### `unidentified developer` {#unidentified-developer}
 
-if you get the`unidentified developer`error follow [these instructions](https://support.apple.com/kb/ph18657?locale=en_US)
+if you get the`unidentified developer`error follow [these instructions](https://support.apple.com/kb/PH25088)
 
 \_\_
 
