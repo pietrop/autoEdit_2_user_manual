@@ -8,7 +8,7 @@ See appropriate subsections for your operating system
 
 * [Mac OSX](installing-on-mac-osx.md)
 * [Linux](installing-on-linux.md) 
-* [Windows](installing-on-windows.md) -  _coming soon_
+* [Windows](installing-on-windows.md)
 
 \_\_
 
