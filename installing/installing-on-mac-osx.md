@@ -1,6 +1,6 @@
 # Installing on Mac OSX
 
-## Download {#download}
+## Download <a id="download"></a>
 
 Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
 
@@ -9,7 +9,7 @@ Download the latest stable release from the [releases page](https://github.com/O
 * drag the app into the applications folder
 * add it to the dock if you want a shortcut to it.
 
-### `unidentified developer` {#unidentified-developer}
+### `unidentified developer` <a id="unidentified-developer"></a>
 
 if you get the`unidentified developer`error follow [these instructions](https://support.apple.com/kb/PH25088)
 
@@ -22,6 +22,4 @@ Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](htt
 {% hint style="info" %}
 [autoEdit.io](http://www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
 {% endhint %}
-
-
 

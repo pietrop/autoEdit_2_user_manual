@@ -15,13 +15,13 @@ To import the EDL and reconnect the sequence
 3. Reconnect the offline sequence
 4. Continue your editing
 
-## Adobe Premiere example {#adobe-premiere-example}
+## Adobe Premiere example <a id="adobe-premiere-example"></a>
 
 ![processing transcription](http://www.autoedit.io/img/gif/5_EDL_in_premiere.gif)
 
 ## Davinci Resolve - 15
 
-{% embed data="{\"url\":\"https://www.blackmagicdesign.com/uk/products/davinciresolve/\",\"type\":\"link\",\"title\":\"DaVinci Resolve 15 \| Blackmagic Design\",\"description\":\"Revolutionary new tools for editing, color correction and professional audio post production, all in a single application!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.blackmagicdesign.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://www.blackmagicdesign.com/uk/products/davinciresolve/" %}
 
 1. Got to `File` --&gt;  `Import Timeline` --&gt; `Import AFF, EDL, XML ...`
 2. Select your EDL file

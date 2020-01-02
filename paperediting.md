@@ -8,7 +8,7 @@ in autoEdit you can pull selections from various transcriptions, organise them i
 
 If you want to know more about what is paper-editing, and why should you bother, I once organised a workshop "_How to craft compelling stories out of video interviews?_" that focussed on the underlying evergreen storytelling principles that transcend the medium, introducing paper-editing in it's traditional paper, scissors and tape as a key story crafting technique to gain insight into the process of interviewed based documentary production. [Check out this blog post for the slide notes](http://pietropassarelli.com/wip_london_july2016.html).
 
-## 1. Create a new paper-edit {#adding-a-videoaudio}
+## 1. Create a new paper-edit <a id="adding-a-videoaudio"></a>
 
 Click on `New Paperedit`, give it a title and description \(optional\) and click Save `Paperedit`.  
 
@@ -17,7 +17,7 @@ Click on `New Paperedit`, give it a title and description \(optional\) and click
 
 This will take you back to the list of paper-edits, click on the one you just created to go to the next step.
 
-## 2. Select text from transcriptions {#adding-a-videoaudio}
+## 2. Select text from transcriptions <a id="adding-a-videoaudio"></a>
 
 Chose a transcription on the left column.
 
@@ -27,13 +27,13 @@ In this view when you select text from a transcription it gets automatically add
 
 ![](.gitbook/assets/1_paperedit.gif)
 
-## 3. Add selection at a specific point {#adding-a-videoaudio}
+## 3. Add selection at a specific point <a id="adding-a-videoaudio"></a>
 
 As you have seen above by default your selections are added at the end of the paper-edit, you can click on a papercut to set that as insert point for the next selection.
 
 ![](.gitbook/assets/3_paperedit.gif)
 
-## 4. Add headings to your story {#adding-a-videoaudio}
+## 4. Add headings to your story <a id="adding-a-videoaudio"></a>
 
 To keep your story organised you can add headings/`story points`.
 
@@ -42,39 +42,39 @@ At present headings help you keep the story organised within autoEdit and are no
 
 ![](.gitbook/assets/4_paperedit.gif)
 
-## 5. Reorganise selections {#adding-a-videoaudio}
+## 5. Reorganise selections <a id="adding-a-videoaudio"></a>
 
 To reorder selections, drag the papercut you would like to move and drop it where you'd like to position it.  
 
 
 ![](.gitbook/assets/5_paperedit.gif)
 
-## 6. Delete one {#adding-a-videoaudio}
+## 6. Delete one <a id="adding-a-videoaudio"></a>
 
 To delete a selection drag it onto the bin.  
 
 
 ![](.gitbook/assets/6_paperedit.gif)
 
-## 7. Delete all {#adding-a-videoaudio}
+## 7. Delete all <a id="adding-a-videoaudio"></a>
 
 To delete all selection click on the bin and chose `ok`.
 
 ![](.gitbook/assets/11_paperedit.gif)
 
-## 8. Play preview {#adding-a-videoaudio}
+## 8. Play preview <a id="adding-a-videoaudio"></a>
 
 click on the `play` button to see a preview of your selections.
 
 ![](.gitbook/assets/12_paperedit.gif)
 
-## 9. Export {#adding-a-videoaudio}
+## 9. Export <a id="adding-a-videoaudio"></a>
 
 You can export an EDL\(edit decision list\) of the selections you have made in the paper-edit. To open as a video sequence in the video editing software of choice.
 
 ![](.gitbook/assets/9_paperedit.gif)
 
-## 10. Reconnect in video editing software of choice {#reconnect-in-video-editing-software-of-choice}
+## 10. Reconnect in video editing software of choice <a id="reconnect-in-video-editing-software-of-choice"></a>
 
 [Check out this section on how to open an EDL](https://www.gitbook.com/book/pietropassarelli/autoedit2-user-manual/edit#) in a video editing software of choice to get a video sequence of your selections.
 

@@ -1,6 +1,6 @@
 # Installing on Windows
 
-## Download {#download}
+## Download <a id="download"></a>
 
 Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
 

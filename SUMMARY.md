@@ -22,7 +22,10 @@
 
 ## autoEdit - Adobe Panel
 
-* [Install](autoedit-adobe-panel/install.md)
+* [Install](autoedit-adobe-panel/install/README.md)
+  * [Adobe Exchange](autoedit-adobe-panel/install/adobe-exchange.md)
+  * [using a third party package manager - Anastasiy](autoedit-adobe-panel/install/using-a-third-party-package-manager-anastasiy.md)
+  * [Via terminal](autoedit-adobe-panel/install/via-terminal.md)
 * [Import media](autoedit-adobe-panel/import-media.md)
 * [Transcription to source monitor](autoedit-adobe-panel/transcription-to-source-monitor.md)
 * [Transcription export selections](autoedit-adobe-panel/transcription-export-selections.md)

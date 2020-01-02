@@ -20,7 +20,7 @@ If you have been using autoEdit I am always super interested in hearing about ot
 
 ## For Developers
 
-If you are a developer and want to get involved, [check out how you could help out in the documentation section](https://pietropassarelli.gitbooks.io/autoedit-2-r-d-documentation-for-developers/content). 
+If you are a developer and want to get involved, [check out how you could help out in the documentation section](https://pietropassarelli.gitbooks.io/autoedit-2-r-d-documentation-for-developers/content).
 
 ## Support the project
 
