@@ -11,9 +11,9 @@ Check them out individually for extra setup instruction.
 5. Pocketsphinx \(Open Source, integrate inside of autoEdit, no extra setup needed\)
 6. [Rev - Transcriptions service](setup-stt-apis-rev.md)
 
-## Overview <a id="overview"></a>
+## Overview {#overview}
 
-### IBM Watson STT Service <a id="ibm-watson-stt-service"></a>
+### IBM Watson STT Service {#ibm-watson-stt-service}
 
 #### Pros:
 
@@ -29,14 +29,14 @@ Check them out individually for extra setup instruction.
 
 [Check out for extra setup instructions for IBM](setup-stt-apis-ibm.md).
 
-### Speechmatics STT Service <a id="ibm-watson-stt-service"></a>
+### Speechmatics STT Service {#ibm-watson-stt-service}
 
 * 1 hour free credit with new account 
 * Easy to setup credentials 
 * Generally pretty accurate \(my opinion, judge for yourself\)
 * [28 languages, see full list](https://www.speechmatics.com/language-support/) Including support for "accent agnostic global english".
 
-### AssemblyAI STT Service <a id="ibm-watson-stt-service"></a>
+### AssemblyAI STT Service {#ibm-watson-stt-service}
 
 *  Free tier: 5 hours free per month
 * Competitive pricing at $0.0003 per second
@@ -44,7 +44,7 @@ Check them out individually for extra setup instruction.
 * Generally very accurate \(my opinion, judge for yourself\)
 * For now only support for English but more coming soon
 
-### Gentle Open Source STT <a id="gentle-open-source-stt"></a>
+### Gentle Open Source STT {#gentle-open-source-stt}
 
 #### Pros:
 
@@ -60,7 +60,7 @@ Check them out individually for extra setup instruction.
 
 [Check out for extra setup instructions for Gentle](https://github.com/pietrop/autoEdit_2_user_manual/tree/d5c8cea5ec4e2a1cee11515e8a838d832407badc/setup-stt-apis-gentle.md).
 
-### Pocketsphinx Open Source STT <a id="pocketsphinx-open-source-stt"></a>
+### Pocketsphinx Open Source STT {#pocketsphinx-open-source-stt}
 
 #### Pros:
 
@@ -78,7 +78,7 @@ Check them out individually for extra setup instruction.
 
 Pocketsphinx does not require extra setup to use.
 
-### Rev Transcription service <a id="rev-transcription-service"></a>
+### Rev Transcription service {#rev-transcription-service}
 
 #### Pros:
 

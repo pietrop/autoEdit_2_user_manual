@@ -22,7 +22,7 @@
 
 ## autoEdit - Adobe Panel
 
-* [Install](autoedit-adobe-panel/install/README.md)
+* [Install](autoedit-adobe-panel/install.md)
   * [Adobe Exchange](autoedit-adobe-panel/install/adobe-exchange.md)
   * [using a third party package manager - Anastasiy](autoedit-adobe-panel/install/using-a-third-party-package-manager-anastasiy.md)
   * [Via terminal](autoedit-adobe-panel/install/via-terminal.md)

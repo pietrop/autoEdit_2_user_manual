@@ -1,10 +1,10 @@
 # Setup: STT APIs - Rev
 
-## GET Rev  API Keys <a id="get-rev-api-keys"></a>
+## GET Rev  API Keys {#get-rev-api-keys}
 
 See [here to get API keys for Rev transcription t service](https://www.rev.com/api/quick-start/moving-to-production)
 
-## Add the API keys to the app at startup <a id="add-the-api-keys-to-the-app-at-startup"></a>
+## Add the API keys to the app at startup {#add-the-api-keys-to-the-app-at-startup}
 
 When you first launch the app by double clicking on it you are taken to the credentials page. Here you can add Rev transcription service username and password API keys.
 
@@ -46,4 +46,6 @@ Sign up to the [mailing list](http://eepurl.com/cMzwSX), follow on [twitter](htt
 {% hint style="info" %}
 [autoEdit.io](http://www.autoEdit.io) it's free and open source. Free as in free speech as well as in free beer. [Help support the autoEdit project to keep it that way](https://donorbox.org/c9762eef-0e08-468e-90cb-2d00643697f8?recurring=true). Support will go towards fixing bugs, adding features, provide support for users etc...
 {% endhint %}
+
+
 

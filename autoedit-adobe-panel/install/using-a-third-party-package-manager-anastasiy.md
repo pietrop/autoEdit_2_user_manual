@@ -2,11 +2,11 @@
 
 ## Download the `.zxp` file from the autoEdit releases
 
-Follow the link for autoEdit2 [Adobe CEP Panel, pre-release](https://github.com/OpenNewsLabs/autoEdit_2/releases/tag/autoEdit2-1.0.13-cep).
+1. Follow the link for autoEdit2 [Adobe CEP Panel](https://github.com/OpenNewsLabs/autoEdit_2/releases) under autoEdit releases.
+2. pick the latest one `Adobe CEP Panel` in the title
+3. under `assets` download the `zxp` file
 
-{% embed url="https://github.com/OpenNewsLabs/autoEdit\_2/releases/tag/autoEdit2-1.0.13-cep" %}
-
-## Download and open  Anastasiy’s Extension Manager
+## Download and open with Anastasiy’s Extension Manager
 
 You can use this third party package manager to handle the installation. 
 
